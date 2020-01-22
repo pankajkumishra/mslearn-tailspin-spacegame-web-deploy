@@ -1,4 +1,3 @@
-
 variables:
   buildConfiguration: 'Release'
   dotnetSdkVersion: '2.1.505'
